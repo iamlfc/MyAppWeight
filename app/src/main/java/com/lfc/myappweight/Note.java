@@ -18,6 +18,7 @@ public class Note {
      *                  3   设置参数  setTextViewText（）  setImageViewResource（）等
      *                  4    更新设置的参数 appWidgetManager.updateAppWidget(appWidgetId, views);
      *    点击事件
+     *
      *                  1   intent的创建
      *                  2    pendingintent的创建    使用  参数 PendingInte是nt.FLAG_CANCEL_CURRENT
      *                  3     设置监听  views.setOnClickPendingIntent(id, pendingIntent);

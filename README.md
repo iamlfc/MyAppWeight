@@ -1,6 +1,7 @@
 # MyAppWeight
 android 桌面小部件的初步开发
 
+    <img src='https://www.murphysec.com/p/iamlfc/MyAppWeight'/>
   /**
      *   as   File --> new --->widget-->appwidget
      *   as 自动创建了   1  继承与 AppWidgetProvider 的一个类
